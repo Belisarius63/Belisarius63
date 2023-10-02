@@ -36,8 +36,10 @@ inertial and gyroscopic sensors) into commands for each screw using a physics mo
 sideways into the berth like a pro, even on a windy day! This was in the early 90's, LONG before cheap 6-axis sensor platforms.
 
 The company was purchased by a big corporation and I was laid off - but immediately picked up by a Japanese company who had
-contracted with my former employer for a target blockset for a prototype Fijitsu microcontroller. I was the developer, and
-it wasn't done yet. I finished it under my new employer. I (secretly) enjoyed telling the customer's electrical engineers
-that their chip design didn't meet the data sheet specifications, and I explained exactly what was wrong.
+contracted with my former employer for a target blockset for a prototype 16/32 bit microcontroller. I was the developer, and
+it wasn't done yet. I finished it under my new employer. I went to Japan to present everything to the customer. They were so
+careful about their IP that they demanded that the chip I used for development was returned to them personally. I (secretly)
+enjoyed telling the customer's electrical engineers that their chip design didn't meet the data sheet specifications, and I
+explained exactly what was wrong and how I made the determination.
 
 ...continuing...
