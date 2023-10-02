@@ -39,7 +39,24 @@ The company was purchased by a big corporation and I was laid off - but immediat
 contracted with my former employer for a target blockset for a prototype 16/32 bit microcontroller. I was the developer, and
 it wasn't done yet. I finished it under my new employer. I went to Japan to present everything to the customer. They were so
 careful about their IP that they demanded that the chip I used for development was returned to them personally. I (secretly)
-enjoyed telling the customer's electrical engineers that their chip design didn't meet the data sheet specifications, and I
-explained exactly what was wrong and how I made the determination.
+enjoyed telling the customer's electrical engineers that their chip design didn't meet the data sheet specifications, but that
+I had successfully developed a hardware work-around to test it anyway.
+
+I continued working for the Japanese company and eventually lived in Tokyo for 9 months working on a project supporting Honda
+R&D who were working on the H-120 engine and FADEC for the Honda Jet. Seriously cool. I couldn't believe I was at Honda's
+world R&D headquarters working with Japanese engineers doing jet engine control software!
+
+Then 2009 happened. I came back to the U.S. Finding work was challenging. Eventually I signed on as a contracter doing software
+testing. It was good to get experience in CMMI/SPICE compliant formal software testing, but it was like being an art critic
+instead of an artist.
+
+Eventually I got another contract position doing embedded real-time software. It was a production automotive mechatronics
+application with safety requirements. It was for a new generation "smart" actuator which used hard real-time closed-loop
+controls. Because the team was small, people wore a lot of hats. I learned a *HUGE amount about manufacturing engineering,
+mechanical engineering, and electrical engineering. I also learned a lot about the physics basis for the controls I was
+implementing. This allowed my to identify a major blunder in the original controls specification which was causing non-
+compliant behavior by the actuator under extreme conditions. I re-wrote the controls and the gross non-compliant behavior
+was eliminated, along with some subtle annoyances (poor transient response / inadequately damped oscillations when upset)
+that had plagued the project for years.
 
 ...continuing...
