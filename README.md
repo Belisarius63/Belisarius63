@@ -50,7 +50,7 @@ Then 2009 happened. I came back to the U.S. Finding work was challenging. Eventu
 testing. It was good to get experience in CMMI/SPICE compliant formal software testing, but it was like being an art critic
 instead of an artist.
 
-Eventually I got another contract position doing embedded real-time software. It was a production automotive mechatronics
+Eventually I got another contract position doing embedded real-time software. It was a LIN-slave automotive ECU mechatronics
 application with safety requirements. It was for a new generation "smart" actuator which used hard real-time closed-loop
 controls. Because the team was small, people wore a lot of hats. I learned a *HUGE amount about manufacturing engineering,
 mechanical engineering, and electrical engineering. I also learned a lot about the physics basis for the controls I was
